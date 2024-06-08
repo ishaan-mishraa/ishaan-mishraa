@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/ishaan-mishraa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.leetcode.com/ishaanmishraa" target="blank">
+  <a href="https://www.leetcode.com/ishaanmishra" target="blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/Ishaan0_0mishra" target="_blank">
