@@ -1,89 +1,76 @@
-<h2 align="left">Hi 👋! My name is Ishaan Mishra and I'm a Full Stack Developer from India </h2>
+<h1 align="center">Hi there, I'm Ishaan Mishra 👋</h1>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Building+scalable+Full-Stack+Web+Apps;Exploring+Deep+Learning+%26+Vision+Transformers;Crafting+REST+APIs+and+Robust+Backends" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- [cite_start]🎓 B.Tech student in Computer Science and Engineering at Kalinga Institute of Industrial Technology[cite: 4, 5].
+- 🛠️ Currently building **Skill Exchange** using the MERN stack.
+- 🧠 Deep diving into advanced ML concepts like **Federated Learning**, **Physics-Informed Neural Networks (PINNs)**, and **Machine Unlearning**.
+- ⚡ Fun fact: When I'm not debugging or grinding LeetCode in Python/Java, you'll probably find me watching Real Madrid dominate or catching a CSK match.
+
+### 🛠️ Tech Stack & Tools
+
+* [cite_start]**Languages:** Python, SQL, JavaScript, HTML/CSS, C, Java [cite: 11]
+* [cite_start]**AI/ML & Data:** Deep Learning (CNNs, Vision Transformers), NumPy, Matplotlib [cite: 12]
+* [cite_start]**Web & Backend:** Node.js, React, Express.JS, PostgreSQL, REST APIs, Nest.JS, TypeScript [cite: 12, 39]
+* [cite_start]**Tools & DevOps:** Git, GitHub, Docker, Google Cloud Platform (GCP), Linux CLI [cite: 12]
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mysql,postgres,git,python,java,c,docker,gcp,linux,ts,nestjs&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+
+### 🚀 Projects & Research
+
+* [cite_start]**Bookstore API:** Built a modular REST API utilizing TypeORM for robust PostgreSQL database management and JWT for secure user authentication[cite: 39, 40]. [cite_start]Exposed CRUD endpoints with advanced filtering capabilities and containerized the application via Docker for one-step deployment[cite: 41].
+* [cite_start]**MangaPlumo:** Developed a full-stack web application featuring a responsive Vite/React frontend seamlessly integrated with a modular Express backend[cite: 42, 43]. [cite_start]Engineered a custom web scraper using Puppeteer to dynamically extract image data from external sources, exposing it through RESTful API endpoints[cite: 44].
+* **Skill Exchange:** Major full-stack project currently in development.
+* [cite_start]**Deepfake Image Detection:** Conducted comparative research on hybrid architectures combining SWIN Transformers with state-of-the-art CNNs to detect AI-generated and manipulated images[cite: 14, 21]. [cite_start]Achieved a peak test accuracy of 93.47% and an F1 score of 93.01% using a ConvNeXt-SWIN Hybrid model[cite: 22].
+* [cite_start]**Brain Tumor Detection:** Evaluated traditional CNNs against modernized architectures (ConvNeXt, Efficient Net) for classifying brain tumors from MRI scans[cite: 23, 25]. [cite_start]Demonstrated superior performance of modern CNN architectures in capturing both local textures and global spatial contexts[cite: 26].
+
+### 💼 Experience
+
+* [cite_start]**Project Intern @ ADRDE, DRDO:** Developed an intranet plotting application using React, successfully parsing six distinct file formats for robust 2D and 3D data visualizations[cite: 28, 29, 32]. [cite_start]Enhanced overall user experience by implementing interactive, highly customizable visualization tools for defense applications[cite: 33].
+* [cite_start]**Technical Team Member @ Enactus KIIT:** Architected and built web applications supporting social entrepreneurship initiatives, contributing to the team winning the 2024 Early Stage Category at Enactus Nationals[cite: 34, 35, 37].
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaan-mishraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaan-mishraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaan-mishraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaan-mishraa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan-mishraa&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
-###
+### 🤝 Let's Connect!
 
-<img align="right" height="150" src="https://i.imgur.com/8XcuRS6.gif"/>
-
-###
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
-
-
-###
-
-<h3 align="left">Socials:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ishaan-mishraa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/ishaan-mishraa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.leetcode.com/ishaanmishra" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://twitter.com/ishaanmishraa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://twitter.com/ishaanmishraa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://www.leetcode.com/ishaanmishra">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.instagram.com/ishaanmxshra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/ishaanmxshra">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
-###
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan-mishraa&" alt="ishaan-mishraa" />
-
-
-<br clear="both">
-
-###
-
-
-###
+</p>
 
 <div align="center">
-  <h3>Profile visit count</h3>
-  <img src="https://profile-counter.glitch.me/ishaan-mishraa/count.svg?"  />
+  <br>
+  <img src="https://profile-counter.glitch.me/ishaan-mishraa/count.svg?" alt="Profile Views" />
 </div>
-
-###
-<!--
-**ishaan-mishraa/ishaan-mishraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
