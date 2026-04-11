@@ -11,26 +11,31 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech student in Computer Science and Engineering at Kalinga Institute of Industrial Technology. - 🧠 Passionate about exploring advanced ML concepts like **Federated Learning**, **Physics-Informed Neural Networks (PINNs)**, and **Machine Unlearning**.
+- 🎓 B.Tech student in Computer Science and Engineering at Kalinga Institute of Industrial Technology.<br>
 - ⚡ Fun fact: When I'm not debugging or grinding LeetCode in Python/Java, you'll probably find me watching Real Madrid dominate or catching a CSK match.
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, SQL, JavaScript, HTML/CSS, C, Java * **AI & Data:** Deep Learning (CNNs, Vision Transformers), NumPy, Matplotlib * **Web Backend:** Node.js, React, Express.JS, PostgreSQL, REST APIs, Nest.JS, TypeScript * **DevOps & Cloud:** Git, GitHub, Docker, Google Cloud Platform (GCP), Linux CLI <p align="left">
+* **Languages:** Python, SQL, JavaScript, HTML/CSS, C, Java <br>
+**AI & Data:** Deep Learning (CNNs, Vision Transformers), NumPy, Matplotlib<br>
+**Web Backend:** Node.js, React, Express.JS, PostgreSQL, REST APIs, Nest.JS, TypeScript<br>
+**DevOps & Cloud:** Git, GitHub, Docker, Google Cloud Platform (GCP), Linux CLI <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mysql,postgres,git,python,java,c,docker,gcp,linux,ts,nestjs&perline=10" alt="Tech Stack" />
   </a>
 </p>
-
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaan-mishraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaan-mishraa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ishaan-mishraa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
+
 <br>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan-mishraa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaan-mishraa&bg_color=1a1b27&color=00FF99&line=394b70&point=16161e&area=true&hide_border=true&custom_title=Recent%20Contribution%20Graph" alt="Activity Graph" />
 </p>
 
 ### 🤝 Let's Connect!
