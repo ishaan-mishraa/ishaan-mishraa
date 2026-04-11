@@ -11,8 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech student in Computer Science and Engineering at Kalinga Institute of Industrial Technology. - 🛠️ Currently building **Skill Exchange** using the MERN stack.
-- 🧠 Deep diving into advanced ML concepts like **Federated Learning**, **Physics-Informed Neural Networks (PINNs)**, and **Machine Unlearning**.
+- 🎓 B.Tech student in Computer Science and Engineering at Kalinga Institute of Industrial Technology. - 🧠 Passionate about exploring advanced ML concepts like **Federated Learning**, **Physics-Informed Neural Networks (PINNs)**, and **Machine Unlearning**.
 - ⚡ Fun fact: When I'm not debugging or grinding LeetCode in Python/Java, you'll probably find me watching Real Madrid dominate or catching a CSK match.
 
 ### 🛠️ Tech Stack & Tools
@@ -23,9 +22,7 @@
   </a>
 </p>
 
-### 💼 Experience
-
-* **Project Intern @ ADRDE, DRDO:** Developed an intranet plotting application using React, successfully parsing six distinct file formats for robust 2D and 3D data visualizations. * **Technical Team Member @ Enactus KIIT:** Architected and built web applications supporting social entrepreneurship initiatives, contributing to the team winning the 2024 Early Stage Category at Enactus Nationals. ### 📊 GitHub Activity
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishaan-mishraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
