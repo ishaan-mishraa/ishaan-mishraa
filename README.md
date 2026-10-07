@@ -1,58 +1,43 @@
-<h1 align="center">Hi there, I'm Ishaan Mishra 👋</h1>
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
+<h1 align="center">Ishaan Mishra</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Building+scalable+Full-Stack+Web+Apps;Exploring+Deep+Learning+%26+Vision+Transformers;Crafting+Robust+REST+APIs" alt="Typing SVG" />
-  </a>
+  <b>Machine learning (computer vision, deepfake detection) · Backend engineering (Java, Spring Boot)</b><br>
+  Systems Engineer at TCS · B.Tech CSE, KIIT (CGPA 9.37)
+</p>
+
+<p align="center">
+  <a href="https://ishaanm.dev"><img src="https://img.shields.io/badge/Portfolio-ishaanm.dev-111111?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ishaanmishraa/"><img src="https://img.shields.io/badge/LinkedIn-ishaanmishraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ishaancodes01@gmail.com"><img src="https://img.shields.io/badge/Email-ishaancodes01%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### About
 
-* **Languages:** Python, SQL, JavaScript, HTML/CSS, C, Java <br>
-* **AI & Data:** Deep Learning (CNNs, Vision Transformers), NumPy, Matplotlib<br>
-* **Web Backend:** Node.js, React, Express.JS, PostgreSQL, REST APIs, Nest.JS, TypeScript<br>
-* **DevOps & Cloud:** Git, GitHub, Docker, Google Cloud Platform (GCP), Linux CLI 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mysql,postgres,git,python,java,c,docker,gcp,linux,ts,nestjs&perline=10" alt="Tech Stack" />
-  </a>
-</p>
+- Co-authored a comparative study of deep learning models for brain tumor detection, published by Springer (LNNS) and presented at **ICTIS 2026, Bangkok**.
+- Researched hybrid CNN and Vision Transformer models for deepfake image detection: **93.47% accuracy, 93.01% F1** with a ConvNeXt-SWIN hybrid.
+- Build full-stack and backend systems: secure role-based banking, edge APIs and automated data pipelines.
 
-### 📊 GitHub Activity & Stats
+### Selected work
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan-mishraa&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
-  </a>
-</p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Deepfake Image Detection** | Hybrid SWIN Transformer and CNN models for detecting AI-generated and manipulated images | Python, Deep Learning |
+| **[CricMarket](https://cricmarket.ishaanm.dev)** | Market values for global cricket, with a nightly scraping and ingestion pipeline | Next.js, Hono, Cloudflare Workers, Python, Supabase, GitHub Actions |
+| **Bank Management System** | Role-based banking with guardian approval for high-value transfers, JWT auth and pessimistic locking | Angular, Spring Boot, H2 |
 
-<br>
+### Tech stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaan-mishraa&bg_color=1a1b27&color=00FF99&line=394b70&point=16161e&area=true&hide_border=true&custom_title=Recent%20Contribution%20Graph" alt="Activity Graph" />
-</p>
-
-### 🤝 Let's Connect!
+**Languages:** Java · Python · SQL · TypeScript · JavaScript · C · HTML/CSS  
+**Backend & Web:** Spring Boot · Angular · Node.js · Express · PostgreSQL · REST APIs · JWT  
+**ML & Data:** Deep Learning (CNNs, Vision Transformers) · NumPy · Matplotlib  
+**Tools:** Git · Docker · Linux · Swagger
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ishaan-mishraa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ishaanmishraa">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.leetcode.com/ishaanmishra">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.instagram.com/ishaanmxshra">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,ts,js,nodejs,express,postgres,docker,git,linux&perline=12" alt="Tech stack" />
 </p>
 
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ishaan-mishraa&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishaan-mishraa&style=flat-square&color=555555&label=Profile+views" alt="Profile views" />
+</p>
